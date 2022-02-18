@@ -1,4 +1,4 @@
 
 # Python Customer Service Chatbot
 
-Simple chatbot ssing PyTorch and Tkinter 
+Simple chatbot using PyTorch and Tkinter 
